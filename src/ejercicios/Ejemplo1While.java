@@ -4,10 +4,10 @@ import java.util.Scanner;
 public class Ejemplo1While {
     public static void main(String[] args) {
 
-        private int suma,numero;
+        private int suma,contador;
         public Ejemplo1While(){
             this.suma=0;
-            this.numero=0;
+            this.contador=0;
         }
         int suma = 0, num;
         Scanner sc = new Scanner(System.in);
