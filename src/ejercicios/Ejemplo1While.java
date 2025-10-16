@@ -4,9 +4,9 @@ import java.util.Scanner;
 public class Ejemplo1While {
     public static void main(String[] args) {
 
-        private int suma,contador;
+        private int resta,contador;
         public Ejemplo1While(){
-            this.suma=0;
+            this.resta=0;
             this.contador=0;
         }
         int suma = 0, num;
